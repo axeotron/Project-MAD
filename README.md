@@ -1,4 +1,6 @@
 # Project-MAD
+
+Machine-Learning based Autonomous Delivery System
 TRC-FURAP Repository 
 
 This repository is the house of the project entitled "Mechatronics System: Application of Image Processing Empowered Robots in Warehouse Automation Systems" funded by The Research Council (TRC), Oman under the Faculty Undergraduate Research Award Program (FURAP)
