@@ -6,8 +6,11 @@ This repository is the house of the project entitled "Mechatronics System Applic
 This Project is carried by a group of Mechatronics Engineering students from the College of Engineering, National University of Science and Technology:
 
 Waleeja Mateen
+
 Rocky Das
+
 Sultan Al Jabri
+
 Ahmed Al Ghadani
 
 Under the supervision of Mr. D. Ragavesh
